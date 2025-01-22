@@ -26,7 +26,15 @@ The following Excel features were incorporated:
 - Filters,
 - Button.
 
+## Data Sourcing
+The dataset used for this project was obtained from Kaggle named “TikTok User Engagement Dataset” and was converted from an XLSX file to a CSV file for easier handling.
 
+## Data Cleaning
+Data was cleaned and transformed using the Power Query Editor of Excel, this is to ensure data’s quality and reliability. Some of the applied steps included:
+
+- Checking for duplicate rows in the dataset. Duplicate data can skew analysis results and should be addressed if present. There were no duplicated rows in the dataset.
+- Checking for Null Values: identifying any missing or undefined data in each column Identifying the count of null values in each column helps in deciding how to handle them.
+- Standardizing formats, and resolving any inconsistencies in the dataset.
 
 ## Analysis:
 
